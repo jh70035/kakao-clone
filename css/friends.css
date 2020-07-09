@@ -1,0 +1,15 @@
+.friend {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: tomato;
+}
+
+/* .friends .friend {
+  background-color: tomato;
+  display: flex;
+}
+
+.friends .friend__content {
+  background-color: yellow;
+} */
