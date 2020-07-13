@@ -5,6 +5,16 @@
   background-color: tomato;
 }
 
+.friend .friend__avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 35%;
+}
+
+.friend__avatar.g-avatar {
+  width: 70px;
+  height: 70px;
+}
 /* .friends .friend {
   background-color: tomato;
   display: flex;
