@@ -1,0 +1,16 @@
+.more .more__btn-icon {
+  display: block;
+}
+
+.more .more__btn-list {
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: space-around;
+  align-items: center;
+}
+
+.more .more__btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
